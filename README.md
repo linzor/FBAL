@@ -1,4 +1,4 @@
-<Right># Fully Bloated Arch Linux installer.
+# Fully Bloated Arch Linux installer.
 Includes:
 - customized GUI
 - customized app config files
