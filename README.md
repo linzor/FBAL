@@ -1,52 +1,53 @@
 # Fully Bloated Arch Linux installer.
-Includes:
-- customized GUI
-- customized app config files
-- additional browser extensions:
-	- wappalyzer
-	- Darkreader
-	- Foxy Proxy
-	- Tabliss
-	- Gnome Shell Integration
-- tons of wallpapers
-- apps:
-	- alacritty
-	- brave browser
-	- tor browser
-	- pavu control
-	- gnome-tweaks
-	- tradingview (snap) 		{you will be asked if you want this app}
-	- Open Broadcast Software
-	- Signal-Desktop
-	- Tutanota-Desktop
-	- Mailspring	 		{you will be asked if you want this app}
-	- Spotify (adblock)	 	{you will be asked if you want this app}
-	- TIDAL (nativefied)	 	{you will be asked if you want this app}
-	- Element
-	- Steam
-	- Discord	 		{you will be asked if you want this app}
-	- Lutris
-	- OnlyOffice 			{you will be asked if you want this app}
-	- VLC
-	- Transmission
-	- Rhythmbox
-	- Binance (nativefied) 		{you will be asked if you want this app}
-       + (CLI)
-	- wget
-	- git
-	- snap 				{you will be asked if you want this app}
-	- nativefier	 		{you will be asked if you want this app}
-	- npm
-	- pip
-	- paru
-	- alacritty-themes
-	- pulseaudio-dlna
-	- cyt
-	- s9
-	- time-update
-	- bashcat
-	- lolcat
-	- figlet
-	- mpv
-	- youtube-dl
-	- and many other...
+## Features:
+- **customized GUI**
+- **customized app config files**
+- **additional browser extensions:**
+   - wappalyzer
+   - Darkreader
+   - Foxy Proxy
+   - Tabliss
+   - Gnome Shell Integration
+- **tons of wallpapers**
+### GUI apps:
+     - alacritty
+     - brave browser
+     - tor browser
+     - pavu control
+     - gnome-tweaks
+     - tradingview (snap) ----------- {you will be asked if you want this app}
+     - Open Broadcast Software
+     - Signal-Desktop
+     - Tutanota-Desktop
+     - Mailspring ------------------ {you will be asked if you want this app}
+     - Spotify (adblock) ----------- {you will be asked if you want this app}
+     - TIDAL (nativefied) ---------- {you will be asked if you want this app}
+     - Element
+     - Steam
+     - Discord --------------------- {you will be asked if you want this app}
+     - Lutris
+     - OnlyOffice ------------------ {you will be asked if you want this app}
+     - VLC
+     - Transmission
+     - Rhythmbox
+     - Binance (nativefied) -------- {you will be asked if you want this app}
+### CLI apps:
+     - wget
+     - git
+     - snap ------------------------ {you will be asked if you want this app}
+     - nativefier ------------------ {you will be asked if you want this app}
+     - npm
+     - pip
+     - paru
+     - alacritty-themes
+     - pulseaudio-dlna
+     - cyt
+     - s9
+     - time-update
+     - bashcat
+     - lolcat
+     - figlet
+     - mpv
+     - cmatrix for pro hacking
+     - youtube-dl
+     - and many others...
