@@ -1,4 +1,5 @@
 # Fully Bloated Arch Linux installer.
+![alt text](https://github.com/linzor/arch-linux-install-scripts/blob/main/images/desktop.png?raw=true)
 ## Features:
 - **customized GUI**
 - **customized app config files**
@@ -8,7 +9,7 @@
    - Foxy Proxy
    - Tabliss
    - Gnome Shell Integration
-- **tons of wallpapers**
+- **awesome wallpapers** created by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski)
 ### GUI apps:
      - alacritty
      - brave browser
