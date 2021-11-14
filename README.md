@@ -15,25 +15,27 @@ Includes:
 	- tor browser
 	- pavu control
 	- gnome-tweaks
-	- tradingview (snap) {you will be asked if you want snaps. if not this app will not be installed}
+	- tradingview (snap) 		{you will be asked if you want this app}
 	- Open Broadcast Software
 	- Signal-Desktop
 	- Tutanota-Desktop
-	- Mailspring {you will be asked if you want this app}
-	- Spotify (adblock) {you will be asked if you want this app}
-	- TIDAL (nativefied) {you will be asked if you want this app}
+	- Mailspring	 		{you will be asked if you want this app}
+	- Spotify (adblock)	 	{you will be asked if you want this app}
+	- TIDAL (nativefied)	 	{you will be asked if you want this app}
 	- Element
 	- Steam
-	- Discord {you will be asked if you want this app}
+	- Discord	 		{you will be asked if you want this app}
 	- Lutris
-	- OnlyOffice
+	- OnlyOffice 			{you will be asked if you want this app}
 	- VLC
 	- Transmission
 	- Rhythmbox
+	- Binance (nativefied) 		{you will be asked if you want this app}
        + (CLI)
 	- wget
 	- git
-	- nativefier {you will be asked if you want this app}
+	- snap 				{you will be asked if you want this app}
+	- nativefier	 		{you will be asked if you want this app}
 	- npm
 	- pip
 	- paru
@@ -47,3 +49,4 @@ Includes:
 	- figlet
 	- mpv
 	- youtube-dl
+	- and many other...
