@@ -1,7 +1,10 @@
-# Fully Bloated Arch Linux installer.
-![alt text](https://github.com/linzor/arch-linux-install-scripts/blob/main/images/desktop.png?raw=true)
+# Fully Bloated Arch Linux installer. (FBAL)
+![alt text](https://github.com/linzor/FBAL/blob/main/images/desktop.png?raw=true)
 ## Features:
 - **customized GUI**
+- **Integration with KDE Connect**
+- **2500+ hacking tools (BlackArch)**
+- **Frontend for nativefier**
 - **customized app config files**
 - **additional browser extensions:**
    - wappalyzer
@@ -38,12 +41,18 @@
      - snap ------------------------ {you will be asked if you want this app}
      - nativefier ------------------ {you will be asked if you want this app}
      - npm
+     - nmap
+     - netcat
+     - gobuster
      - pip
      - paru
      - alacritty-themes
      - pulseaudio-dlna
      - cyt
      - s9
+     - ssh
+     - hydra
+     - bettercap
      - time-update
      - bashcat
      - lolcat
